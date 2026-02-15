@@ -1,0 +1,80 @@
+#. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.NAME"
+msgid "<link=\"BASICSINGLEHARVESTPLANT\">Mealwood</link>"
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DESC"
+msgid "Mealwoods produce <link=\"BASICPLANTFOOD\">Meal Lice</link>, an oddly wriggly grain that can be harvested for <link=\"FOOD\">Food</link>."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DOMESTICATEDDESC
+msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DOMESTICATEDDESC"
+msgid "This plant produces edible <link=\"BASICPLANTFOOD\">Meal Lice</link>."
+msgstr ""
+
+#. STRINGS.CODEX.MEALWOOD.TITLE
+msgctxt "STRINGS.CODEX.MEALWOOD.TITLE"
+msgid "Mealwood"
+msgstr ""
+
+#. STRINGS.CODEX.MEALWOOD.SUBTITLE
+msgctxt "STRINGS.CODEX.MEALWOOD.SUBTITLE"
+msgid "Edible Plant"
+msgstr ""
+
+#. STRINGS.CODEX.MEALWOOD.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.MEALWOOD.BODY.CONTAINER1"
+msgid "Mealwood is an bramble-like plant that has a parasitic symbiotic relationship with the nutrient-rich Meal Lice that inhabit it.\n\nMealwood experience a rapid growth rate in its first stages, but once the Meal Lice become active they consume all the new fruiting spurs on the plant before they can fully mature.\n\nTheoretically the flowers of this plant are a beautiful color of fuchsia, however no Mealwood has ever reached the point of flowering without being overrun by the parasitic Meal Lice."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME"
+msgid "<link=\"BASICSINGLEHARVESTPLANT\">Mealwood Seed</link>"
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.DESC"
+msgid "The <link=\"PLANTS\">Seed</link> of a <link=\"BASICSINGLEHARVESTPLANT\">Mealwood</link>.\n\nDigging up Buried Objects may uncover a Mealwood Seed."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME
+msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME"
+msgid "<link=\"BASICPLANTFOOD\">Meal Lice</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.BASICPLANTFOOD.DESC
+msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.DESC"
+msgid "A flavorless grain that almost never wiggles on its own."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.PICKLEDMEAL.NAME
+msgctxt "STRINGS.ITEMS.FOOD.PICKLEDMEAL.NAME"
+msgid "<link=\"PICKLEDMEAL\">Pickled Meal</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.PICKLEDMEAL.DESC
+msgctxt "STRINGS.ITEMS.FOOD.PICKLEDMEAL.DESC"
+msgid "Meal Lice preserved in vinegar.\n\nIt's a rarely acquired taste."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.PICKLEDMEAL.RECIPEDESC
+msgctxt "STRINGS.ITEMS.FOOD.PICKLEDMEAL.RECIPEDESC"
+msgid "<link=\"BASICPLANTFOOD\">Meal Lice</link> regrettably preserved in vinegar."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.BASICPLANTBAR.NAME
+msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.NAME"
+msgid "<link=\"BASICPLANTBAR\">Liceloaf</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.BASICPLANTBAR.DESC
+msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.DESC"
+msgid "<link=\"BASICPLANTFOOD\">Meal Lice</link> compacted into a dense, immobile loaf."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC
+msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC"
+msgid "<link=\"BASICPLANTFOOD\">Meal Lice</link> compacted into a dense, immobile loaf."
+msgstr ""
+
