@@ -13,7 +13,7 @@
         ]
     },
     "plants": {
-        "muckroot.po": [
+        "muckroot/muckroot.po": [
             "STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.NAME",
             "STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC",
 
