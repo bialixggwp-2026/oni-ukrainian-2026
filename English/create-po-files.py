@@ -43,6 +43,8 @@ def write_po_file_from_chunks(fname: str, ids: List[str], chunks_src: dict) -> i
     print(f"writing {fname}")
     with open(fname, "w", encoding="utf=8") as f:
         for i in ids:
+            if not i:   # allow empty string as visual separator
+                continue
             ch = chunks_src.get(i)
             if not ch:
                 print(f"ERROR: chunks_db has no chunk with ID {i}")

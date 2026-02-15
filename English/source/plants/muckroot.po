@@ -1,0 +1,35 @@
+#. STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.NAME
+msgctxt "STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.NAME"
+msgid "<link=\"BASICFORAGEPLANT\">Muckroot</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC
+msgctxt "STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.DESC"
+msgid "A seedless fruit with an upsettingly bland aftertaste.\n\nIt cannot be replanted.\n\nDigging up Buried Objects may uncover a <link=\"BASICFORAGEPLANT\">Muckroot</link>."
+msgstr ""
+
+#. STRINGS.CODEX.MUCKROOT.TITLE
+msgctxt "STRINGS.CODEX.MUCKROOT.TITLE"
+msgid "Muckroot"
+msgstr ""
+
+#. STRINGS.CODEX.MUCKROOT.SUBTITLE
+msgctxt "STRINGS.CODEX.MUCKROOT.SUBTITLE"
+msgid "Edible Plant"
+msgstr ""
+
+#. STRINGS.CODEX.MUCKROOT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.MUCKROOT.BODY.CONTAINER1"
+msgid "The Muckroot is an aggressively invasive yet exceedingly delicate root plant known for its earthy flavor and unusual texture.\n\nIt is easy to store and keeps for unusually long periods of time, characteristics that once made it a staple food for explorers on long expeditions."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.NAME"
+msgid "<link=\"BASICFORAGEPLANTPLANTED\">Buried Muckroot</link>"
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.DESC"
+msgid "Muckroots are incapable of propagating but can be harvested for a single <link=\"FOOD\">Food</link> serving."
+msgstr ""
+
