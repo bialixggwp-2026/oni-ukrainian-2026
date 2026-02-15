@@ -1,0 +1,1 @@
+Sends a <b><style=\"logic_on\">Green Signal</style></b> when the selected <link=\"ELEMENTSLIQUID\">Liquid</link> is detected on this sensor's tile.\n\nSends a <b><style=\"logic_off\">Red Signal</style></b> when the selected <link=\"ELEMENTSLIQUID\">Liquid</link> is not present.

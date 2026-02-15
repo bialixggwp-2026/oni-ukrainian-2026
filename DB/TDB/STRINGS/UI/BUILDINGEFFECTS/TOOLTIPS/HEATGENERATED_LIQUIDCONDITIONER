@@ -1,0 +1,1 @@
+Generates <style=\"KKeyword\">Heat</style> based on the <style=\"KKeyword\">Volume</style> and <style=\"KKeyword\">Specific Heat Capacity</style> of the pumped <style=\"KKeyword\">Liquid</style>\n\nCooling 10 kg of <link=\"WATER\">Water</link> the entire <b>{1}</b> will output <b>{0}</b>

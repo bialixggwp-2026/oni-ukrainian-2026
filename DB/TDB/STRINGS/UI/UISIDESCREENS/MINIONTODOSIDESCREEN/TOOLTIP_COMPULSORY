@@ -1,0 +1,1 @@
+{Description}\n\n<b>{Errand}</b> is a Involuntary action and so will occur immediately\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    • Involuntary: {ClassPriority}\n    • All {BestGroup} Errands: {TypePriority}

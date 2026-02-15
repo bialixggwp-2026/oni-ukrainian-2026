@@ -1,0 +1,1 @@
+Separates one <link=\"ELEMENTSSOLID\">Solid Material</link> from the conveyor, sending it into a dedicated <link=\"SOLIDCONDUIT\">Conveyor Rail</link>.

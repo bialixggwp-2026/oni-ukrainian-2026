@@ -1,0 +1,1 @@
+Connects to an <link=\"LOGIC\">Automation</link> grid to automatically turn <link=\"ELEMENTSGAS\">Gas</link> flow off when the specified amount has passed through it.

@@ -1,0 +1,1 @@
+<link=\"REMOTEWORKERDOCK\">Remote Worker Docks</link> deploy automatons that operate machinery based on instructions received from a connected <link=\"REMOTEWORKTERMINAL\">Remote Controller</link>.\n\nMust be placed within range of its target building.

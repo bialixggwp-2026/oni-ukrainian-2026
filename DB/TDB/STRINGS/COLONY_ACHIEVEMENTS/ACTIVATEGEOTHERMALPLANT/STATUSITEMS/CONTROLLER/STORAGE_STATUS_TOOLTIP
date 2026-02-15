@@ -1,0 +1,1 @@
+When pressure reaches {Threshold}, this building's contents will be heated and pumped out to connected geo vents\n\nCurrent pressure: {Amount}/{Threshold}

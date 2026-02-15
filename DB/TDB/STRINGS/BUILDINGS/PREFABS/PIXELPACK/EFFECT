@@ -1,0 +1,1 @@
+Pixels can be designated a color when it receives a <b><style=\"logic_on\">Green Signal</style></b> and a different color when it receives a <b><style=\"logic_off\">Red Signal</style></b>.\n\nInput from an <link=\"LOGICWIRE\">Automation Wire</link> controls the whole strip. Input from an <link=\"LOGICRIBBON\">Automation Ribbon</link> can control individual pixels on the strip.

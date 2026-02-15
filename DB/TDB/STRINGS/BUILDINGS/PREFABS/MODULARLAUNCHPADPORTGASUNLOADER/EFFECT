@@ -1,0 +1,1 @@
+Unloads <link=\"ELEMENTSGAS\">Gases</link> from the storage of a linked rocket.\n\nAutomatically links when built to the side of a <link=\"LAUNCHPAD\">Rocket Platform</link> or another <link=\"MODULARLAUNCHPADPORTSOLID\">Rocket Port</link>.\n\nUses the gas filters set on this unloader.

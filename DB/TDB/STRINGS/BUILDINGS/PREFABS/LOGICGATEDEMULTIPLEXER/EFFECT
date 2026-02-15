@@ -1,0 +1,1 @@
+Route a single Input signal out one of four possible Outputs, based on the selection made by the Control Inputs.\n\nSend a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> to the two Control Inputs to determine which Output is selected.

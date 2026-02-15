@@ -1,0 +1,1 @@
+    • <link=\"BARRACKS\">Barracks</link>\n    • <link=\"BEDROOM\">Luxury Barracks</link> (one or more <link=\"LUXURYBED\">Comfy Beds</link>)\n    • <link=\"PRIVATE BEDROOM\">Private Bedroom</link> (single <link=\"LUXURYBED\">Comfy Bed</link>)

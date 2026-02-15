@@ -1,0 +1,1 @@
+Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> when rail contents enter the chosen <link=\"HEAT\">Temperature</link> range.

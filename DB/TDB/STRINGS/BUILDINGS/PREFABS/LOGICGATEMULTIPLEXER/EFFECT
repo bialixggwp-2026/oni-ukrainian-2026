@@ -1,0 +1,1 @@
+Select which one of four Input signals should be sent out the Output, using Control Inputs.\n\nSend a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> to the two Control Inputs to determine which Input is selected.

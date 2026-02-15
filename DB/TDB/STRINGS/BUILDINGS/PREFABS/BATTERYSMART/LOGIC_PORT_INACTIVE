@@ -1,0 +1,1 @@
+Sends a <b><style=\"logic_off\">Red Signal</style></b> when the battery is more than <b>High Threshold</b> charged, until <b>Low Threshold</b> is reached again

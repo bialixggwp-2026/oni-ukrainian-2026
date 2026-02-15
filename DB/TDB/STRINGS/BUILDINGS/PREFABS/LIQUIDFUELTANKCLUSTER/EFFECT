@@ -1,0 +1,1 @@
+Stores the <link=\"ELEMENTSLIQUID\">Liquid</link> fuel piped into it to supply rocket engines.\n\nThe stored fuel type is determined by the rocket engine it is built upon. \n\nMust be built via <link=\"LAUNCHPAD\">Rocket Platform</link>.

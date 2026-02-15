@@ -1,0 +1,1 @@
+Allows <link=\"ELEMENTSLIQUID\">Liquids</link> to be pumped into rocket storage via <link=\"LIQUIDCONDUIT\">Pipes</link>.\n\nSends liquid to the first Rocket Module with available space.\n\nMust be built within the interior of a Rocket Module.

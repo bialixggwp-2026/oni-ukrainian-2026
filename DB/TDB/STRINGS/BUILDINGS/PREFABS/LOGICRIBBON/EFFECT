@@ -1,0 +1,1 @@
+A 4-Bit <link=\"LOGICWIRE\">Automation Wire</link> which can carry up to four automation signals.\n\nUse a <link=\"LOGICRIBBONWRITER\">Ribbon Writer</link> to output to multiple Bits, and a <link=\"LOGICRIBBONREADER\">Ribbon Reader</link> to input from multiple Bits.

@@ -1,0 +1,1 @@
+Only lets a <b><style=\"logic_on\">Green Signal</style></b> through if the Input has received a <b><style=\"logic_on\">Green Signal</style></b> for longer than the selected filter time.\n\nWill continue outputting a <b><style=\"logic_off\">Red Signal</style></b> if the <b><style=\"logic_on\">Green Signal</style></b> did not last long enough.

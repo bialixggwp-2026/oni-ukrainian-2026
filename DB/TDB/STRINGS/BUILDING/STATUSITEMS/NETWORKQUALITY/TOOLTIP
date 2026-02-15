@@ -1,0 +1,1 @@
+This scanner network is scanning at <b>{TotalQuality}</b> effectiveness\n\nIt will detect incoming objects <b>{WorstTime}</b> to <b>{BestTime}</b> before they arrive\n\nBuild multiple <link=\"COMETDETECTOR\">Space Scanner</link>s to increase surface coverage and improve network quality\n\n    • Surface Coverage: <b>{Coverage}</b>

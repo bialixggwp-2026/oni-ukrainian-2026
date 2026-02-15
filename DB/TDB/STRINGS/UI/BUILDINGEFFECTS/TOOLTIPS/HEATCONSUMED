@@ -1,0 +1,1 @@
+Dissipates <style=\"consumed\">{0}</style> per second\n\nSum <style=\"KKeyword\">Temperature</style> change can be affected by the material attributes of the cooled substance:\n    • mass\n    • specific heat capacity\n    • surface area\n    • insulation thickness\n    • thermal conductivity

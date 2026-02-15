@@ -1,0 +1,1 @@
+Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> when <link=\"ELEMENTSLIQUID\">Liquid</link> pressure enters the chosen range.\n\nMust be submerged in <link=\"ELEMENTSLIQUID\">Liquid</link>.

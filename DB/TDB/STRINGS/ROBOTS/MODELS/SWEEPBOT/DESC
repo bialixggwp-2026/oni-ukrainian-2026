@@ -1,0 +1,1 @@
+An automated sweeping robot.\n\nSweeps up <link=\"ELEMENTSSOLID\">Solid</link> debris and <link=\"ELEMENTSLIQUID\">Liquid</link> spills and stores the material back in its <link=\"SWEEPBOTSTATION\">Sweepy Dock</link>.

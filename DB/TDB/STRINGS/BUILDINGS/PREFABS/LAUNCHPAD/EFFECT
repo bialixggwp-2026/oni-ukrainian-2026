@@ -1,0 +1,1 @@
+Precursor to construction of all other Rocket modules.\n\nAllows Rockets to launch from or land on the host Planetoid.\n\nAutomatically links up to <link=\"MODULARLAUNCHPADPORTSOLID\">Rocket Port</link><link=\"MODULARLAUNCHPADPORTSOLID\">s</link> built to either side of the platform.

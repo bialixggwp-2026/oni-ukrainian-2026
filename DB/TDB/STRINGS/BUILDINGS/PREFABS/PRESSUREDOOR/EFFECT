@@ -1,0 +1,1 @@
+Blocks <link=\"ELEMENTSLIQUID\">Liquid</link> and <link=\"ELEMENTSGAS\">Gas</link> flow, maintaining pressure between areas.\n\nFunctions as a <link=\"MANUALPRESSUREDOOR\">Manual Airlock</link> when no <link=\"POWER\">Power</link> is available.\n\nWild <link=\"CREATURES\">Critters</link> cannot pass through doors.

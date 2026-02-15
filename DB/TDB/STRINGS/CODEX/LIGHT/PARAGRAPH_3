@@ -1,0 +1,1 @@
+The amount of light on a cell is measured in Lux. Lux has a dramatic range - A simple <link=\"CEILINGLIGHT\">Ceiling Light</link> produces 1800 Lux, while the sun can produce values as high as 80000 Lux. The <link=\"SOLARPANEL\">Solar Panel</link> generates power proportional to how many Lux it is exposed to.\n\n

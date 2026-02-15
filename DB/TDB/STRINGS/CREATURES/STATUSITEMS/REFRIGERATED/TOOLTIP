@@ -1,0 +1,1 @@
+Ideal <style=\"KKeyword\">Temperature</style> storage is slowing this food's <style=\"KKeyword\">Decay Rate</style>\n\n<style=\"KKeyword\">Temperatures</style> above <b>{RotTemperature}</b> spoil food more quickly\n\nStore food below {PreserveTemperature} to further reduce spoilage

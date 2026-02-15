@@ -1,0 +1,1 @@
+Reads a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> from the specified Bit of an <link=\"LOGICRIBBON\">Automation Ribbon</link> onto an <link=\"LOGICWIRE\">Automation Wire</link>.

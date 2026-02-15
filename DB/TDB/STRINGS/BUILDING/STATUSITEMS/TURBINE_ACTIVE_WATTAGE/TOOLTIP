@@ -1,0 +1,1 @@
+This turbine is generating <style=\"produced\">{Wattage}</style> of <style=\"KKeyword\">Power</style>\n\nIt is running at <b>{Efficiency}</b> of full capacity\n\nIncrease {Src_Element} <style=\"KKeyword\">Mass</style> and <style=\"KKeyword\">Temperature</style> to improve output

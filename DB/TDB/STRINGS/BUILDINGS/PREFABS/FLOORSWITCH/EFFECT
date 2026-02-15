@@ -1,0 +1,1 @@
+Sends a <b><style=\"logic_on\">Green Signal</style></b> when an object or Duplicant is placed atop of it.\n\nCannot be triggered by <link=\"ELEMENTSGAS\">Gas</link> or <link=\"ELEMENTSLIQUID\">Liquids</link>.

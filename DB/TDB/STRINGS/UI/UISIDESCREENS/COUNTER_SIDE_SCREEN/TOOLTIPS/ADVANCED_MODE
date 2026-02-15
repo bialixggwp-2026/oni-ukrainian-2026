@@ -1,0 +1,1 @@
+In Advanced Mode, the <link=\"LOGICCOUNTER\">Signal Counter</link> will count from <b>0</b> rather than <b>1</b>. It will reset when the max is reached, and send a <b><style=\"logic_on\">Green Signal</style></b> as a brief pulse rather than continuously.

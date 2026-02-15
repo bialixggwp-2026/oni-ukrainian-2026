@@ -1,0 +1,1 @@
+Outputs a <b><style=\"logic_on\">Green Signal</style></b> if exactly one of its Inputs is receiving <b><style=\"logic_on\">Green</style></b>.\n\nOutputs a <b><style=\"logic_off\">Red Signal</style></b> if both or neither Inputs are receiving a <b><style=\"logic_on\">Green Signal</style></b>.

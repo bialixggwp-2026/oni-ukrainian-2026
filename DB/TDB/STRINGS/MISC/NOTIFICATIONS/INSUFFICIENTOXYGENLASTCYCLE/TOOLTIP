@@ -1,0 +1,1 @@
+My colony is consuming more <link=\"OXYGEN\">Oxygen</link> than it is producing, and will run out air if I do not increase production.\n\nI should check my existing oxygen production buildings to ensure they're operating correctly\n\n• <link=\"OXYGEN\">Oxygen</link> produced last cycle: {EmittingRate}\n• Consumed last cycle: {ConsumptionRate}

@@ -1,0 +1,1 @@
+Will only send a <b><style=\"logic_on\">Green Signal</style></b> if it receives <b><style=\"logic_on\">Green</style></b> for longer than <b>{0} seconds</b>

@@ -1,0 +1,1 @@
+Unpacks <link=\"RAILGUNPAYLOAD\">Interplanetary Payloads</link> delivered by Duplicants.\n\nAutomatically separates <link=\"ELEMENTSSOLID\">Solid</link>, <link=\"ELEMENTSLIQUID\">Liquid</link>, and <link=\"ELEMENTSGAS\">Gas</link> materials and distributes them to the appropriate systems.

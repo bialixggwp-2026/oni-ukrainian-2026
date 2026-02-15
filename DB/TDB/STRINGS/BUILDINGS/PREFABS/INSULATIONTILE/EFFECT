@@ -1,0 +1,1 @@
+Used to build the walls and floors of rooms.\n\nReduces <link=\"HEAT\">Heat</link> transfer between walls, retaining ambient heat in an area.

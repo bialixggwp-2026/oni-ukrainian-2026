@@ -1,0 +1,1 @@
+{Description}\n\n<b>{Errand}</b> is an Emergency errand and so will be performed before all Regular and Personal errands\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    • Emergency : {ClassPriority}\n    • This {Building}'s Priority: {BuildingPriority}\n    • All {BestGroup} Errands: {TypePriority}

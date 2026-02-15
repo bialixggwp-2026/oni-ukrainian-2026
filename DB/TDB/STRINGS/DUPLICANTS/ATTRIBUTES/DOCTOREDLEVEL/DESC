@@ -1,0 +1,1 @@
+Duplicants who receive medical care while in a <link=\"DOCTORSTATION\">Sick Bay</link> or <link=\"ADVANCEDDOCTORSTATION\">Disease Clinic</link> will gain the <style=\"KKeyword\">Treatment Received</style> effect\n\nThis effect reduces the severity of <style=\"KKeyword\">Disease</style> symptoms

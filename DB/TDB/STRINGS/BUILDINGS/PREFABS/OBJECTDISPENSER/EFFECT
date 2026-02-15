@@ -1,0 +1,1 @@
+Stores any <link=\"ELEMENTSSOLID\">Solid Materials</link> delivered to it by Duplicants.\n\nDumps stored materials back into the world when it receives a <b><style=\"logic_on\">Green Signal</style></b>.

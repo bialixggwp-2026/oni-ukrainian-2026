@@ -1,0 +1,1 @@
+Receives a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> from an <link=\"LOGICINTERASTEROIDSENDER\">Automation Broadcaster</link> over vast distances in space.\n\nBoth the Automation Receiver and the Automation Broadcaster must be exposed to space to function.

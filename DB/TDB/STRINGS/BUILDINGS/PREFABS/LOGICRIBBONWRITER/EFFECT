@@ -1,0 +1,1 @@
+Writes a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> to the specified Bit of an <link=\"LOGICRIBBON\">Automation Ribbon</link>\n\n<link=\"LOGICRIBBON\">Automation Ribbon</link> must be used as the output wire to avoid overloading.

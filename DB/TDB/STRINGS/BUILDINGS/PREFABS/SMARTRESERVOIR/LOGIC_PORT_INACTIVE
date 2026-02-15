@@ -1,0 +1,1 @@
+Sends a <b><style=\"logic_off\">Red Signal</style></b> when reservoir is <b>High Threshold</b> full, until <b>Low Threshold</b> is reached again

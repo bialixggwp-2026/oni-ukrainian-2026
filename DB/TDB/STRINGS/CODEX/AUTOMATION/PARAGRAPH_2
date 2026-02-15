@@ -1,0 +1,1 @@
+In addition to an <link=\"WIRE\">electrical wire</link>, most powered buildings can also have an <link=\"LOGICWIRE\">Automation Wire</link> connected to them. This wire can signal the building to turn on or off. If the other end of a <link=\"LOGICWIRE\">Automation Wire</link> is connected to a sensor, the building will turn on and off as the sensor outputs signals.\n\n

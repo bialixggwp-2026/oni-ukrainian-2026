@@ -1,0 +1,1 @@
+{IdleDescription}\n\nDuplicants will only <b>{Errand}</b> when there is nothing else for them to do\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    • Idle: {ClassPriority}\n    • All {BestGroup} Errands: {TypePriority}

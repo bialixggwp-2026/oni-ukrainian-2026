@@ -1,0 +1,1 @@
+Fires <link=\"CLAY\">Clay</link> to produce <link=\"CERAMIC\">Ceramic</link>, and <link=\"CARBON\">Coal</link> or <link=\"WOOD\">Wood</link> to produce <link=\"REFINEDCARBON\">Refined Carbon</link>.\n\nDuplicants will not fabricate items unless recipes are queued.

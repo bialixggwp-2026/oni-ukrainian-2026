@@ -1,0 +1,1 @@
+Allows <link=\"ELEMENTSGAS\">Gases</link> to be drawn from rocket storage via <link=\"GASCONDUIT\">Pipes</link>.\n\nDraws gas from the first Rocket Module with the requested material.\n\nMust be built within the interior of a Rocket Module.

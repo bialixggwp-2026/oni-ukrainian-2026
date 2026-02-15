@@ -1,0 +1,1 @@
+Outputs a <b><style=\"logic_on\">Green Signal</style></b> if the Input is receiving a <b><style=\"logic_on\">Green Signal</style></b>.\n\nContinues sending a <b><style=\"logic_on\">Green Signal</style></b> for an amount of buffer time after the Input receives a <b><style=\"logic_off\">Red Signal</style></b>.

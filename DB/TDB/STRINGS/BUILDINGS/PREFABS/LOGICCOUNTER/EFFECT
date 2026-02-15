@@ -1,0 +1,1 @@
+Counts how many times a <b><style=\"logic_on\">Green Signal</style></b> has been received up to a chosen number.\n\nWhen the chosen number is reached it sends a <b><style=\"logic_on\">Green Signal</style></b> until it receives another <b><style=\"logic_on\">Green Signal</style></b>, when it resets automatically and begins counting again.

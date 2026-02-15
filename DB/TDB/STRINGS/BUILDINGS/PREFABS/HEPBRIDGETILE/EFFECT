@@ -1,0 +1,1 @@
+Receives <link=\"RADIATION\">Radbolts</link> from <link=\"HIGHENERGYPARTICLESPAWNER\">Radbolt Generators</link> and directs them through walls. All other materials and elements will be blocked from passage.

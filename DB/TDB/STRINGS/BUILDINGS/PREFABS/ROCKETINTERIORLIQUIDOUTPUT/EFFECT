@@ -1,0 +1,1 @@
+Allows <link=\"ELEMENTSLIQUID\">Liquids</link> to be drawn from rocket storage via <link=\"LIQUIDCONDUIT\">Pipes</link>.\n\nDraws liquid from the first Rocket Module with the requested material.\n\nMust be built within the interior of a Rocket Module.

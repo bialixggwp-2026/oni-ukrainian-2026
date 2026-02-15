@@ -1,0 +1,1 @@
+Allows <link=\"ELEMENTSGAS\">Gases</link> to be pumped into rocket storage via <link=\"GASCONDUIT\">Pipes</link>.\n\nSends gas to the first Rocket Module with available space.\n\nMust be built within the interior of a Rocket Module.

@@ -1,0 +1,1 @@
+Produces <link=\"MEDICINE\">Medicine</link> to cure most basic <link=\"DISEASE\">Diseases</link>.\n\nDuplicants must possess the Medicine Compounding <link=\"ROLES\">Skill</link> to fabricate medicines.\n\nDuplicants will not fabricate items unless recipes are queued.

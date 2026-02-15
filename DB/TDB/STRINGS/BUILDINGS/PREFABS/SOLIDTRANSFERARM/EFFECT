@@ -1,0 +1,1 @@
+Automates <link=\"CHORES\">Sweeping</link> and <link=\"CHORES\">Supplying</link> errands by sucking up all nearby <link=\"DECOR\">Debris</link>.\n\nMaterials are automatically delivered to any <link=\"SOLIDCONDUITINBOX\">Conveyor Loader</link>, <link=\"SOLIDCONDUITOUTBOX\">Conveyor Receptacle</link>, storage, or buildings within range.

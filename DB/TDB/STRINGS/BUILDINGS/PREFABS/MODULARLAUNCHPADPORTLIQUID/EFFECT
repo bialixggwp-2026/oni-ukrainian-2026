@@ -1,0 +1,1 @@
+Loads <link=\"ELEMENTSLIQUID\">Liquids</link> to the storage of a linked rocket.\n\nAutomatically links when built to the side of a <link=\"LAUNCHPAD\">Rocket Platform</link> or another <link=\"MODULARLAUNCHPADPORTSOLID\">Rocket Port</link>.\n\nUses the liquid filters set on the rocket's cargo bays.

@@ -1,0 +1,1 @@
+Uses designated <link=\"METAL\">Metal Ores</link> from filter settings to create <link=\"OXYGENMASK\">Oxygen Masks</link>.\n\nAutomatically draws in ambient <link=\"OXYGEN\">Oxygen</link> to fill masks.\n\nMarks a threshold where Duplicants must put on or take off a mask.\n\nCan be rotated before construction.

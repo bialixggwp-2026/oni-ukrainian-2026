@@ -1,0 +1,1 @@
+Launches <link=\"RAILGUNPAYLOAD\">Interplanetary Payloads</link> between Planetoids.\n\nPayloads can contain <link=\"ELEMENTSSOLID\">Solid</link>, <link=\"ELEMENTSLIQUID\">Liquid</link>, or <link=\"ELEMENTSGAS\">Gas</link> materials.\n\nCannot transport Duplicants.

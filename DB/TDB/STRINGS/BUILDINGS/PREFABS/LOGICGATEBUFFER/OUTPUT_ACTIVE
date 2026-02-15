@@ -1,0 +1,1 @@
+Sends a <b><style=\"logic_on\">Green Signal</style></b> while receiving <b><style=\"logic_on\">Green</style></b>. After receiving <b><style=\"logic_off\">Red</style></b>, will continue sending <b><style=\"logic_on\">Green</style></b> until the timer has expired

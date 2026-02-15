@@ -1,0 +1,1 @@
+Current <style=\"KKeyword\">Nectar</style> production rate: {0}\n\n<style=\"KKeyword\">Nectar</style> production rate depends on total branch productivity\n\nBranches must be fully grown and exposed to <style=\"KKeyword\">Light</style> in order to be productive\n\n{BRANCH_0}\n{BRANCH_1}\n{BRANCH_2}\n{BRANCH_3}\n{BRANCH_4}\n\nOptimal productivity: {1} branches at {2} each

@@ -1,0 +1,1 @@
+•<indent=20px>Suit checkpoints now have an automation port to disable them so Duplicants can pass through. Some checkpoints may now be unintentionally connected to existing <link=\"LOGICWIRE\">Automation Wire</link>s.

@@ -1,0 +1,1 @@
+Generates <style=\"KKeyword\">Heat</style> based on the <style=\"KKeyword\">Volume</style> and <style=\"KKeyword\">Specific Heat Capacity</style> of the pumped <style=\"KKeyword\">Gas</style>\n\nCooling 1 kg of <link=\"OXYGEN\">Oxygen</link> the entire <b>{1}</b> will output <b>{0}</b>

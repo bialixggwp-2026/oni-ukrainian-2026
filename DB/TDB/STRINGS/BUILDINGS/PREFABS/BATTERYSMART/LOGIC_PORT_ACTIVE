@@ -1,0 +1,1 @@
+Sends a <b><style=\"logic_on\">Green Signal</style></b> when battery is less than <b>Low Threshold</b> charged, until <b>High Threshold</b> is reached again

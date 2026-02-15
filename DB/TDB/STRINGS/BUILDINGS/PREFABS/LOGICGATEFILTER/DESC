@@ -1,0 +1,1 @@
+This gate only lets a Green Signal through if its Input has received a Green Signal that lasted longer than the selected filter time.

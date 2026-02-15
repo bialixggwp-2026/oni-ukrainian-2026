@@ -1,0 +1,1 @@
+This critter can be sheared every <b>{Time}</b> to produce <style=\"produced\">{Amount}</style> of <style=\"KKeyword\">{Item}</style>\n\nIt must be kept in <style=\"KKeyword\">{Atmosphere}</style>-rich environments to regrow sheared <style=\"KKeyword\">{Item}</style>

@@ -1,0 +1,1 @@
+{Description}\n\nErrand Type: {Groups}\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    • {Name}'s {BestGroup} Priority: {PersonalPriorityValue} ({PersonalPriority})\n    • This {Building}'s Priority: {BuildingPriority}\n    • All {BestGroup} Errands: {TypePriority}

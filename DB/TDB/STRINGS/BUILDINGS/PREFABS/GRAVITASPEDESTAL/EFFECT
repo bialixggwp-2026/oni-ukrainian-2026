@@ -1,0 +1,1 @@
+Displays a single object, doubling its <link=\"DECOR\">Decor</link> value.\n\nObjects with negative Decor will gain some positive Decor when displayed.

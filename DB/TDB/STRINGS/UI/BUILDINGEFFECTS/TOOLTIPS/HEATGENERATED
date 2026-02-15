@@ -1,0 +1,1 @@
+Generates <style=\"produced\">{0}</style> per second\n\nSum <style=\"KKeyword\">Temperature</style> change is affected by the material attributes of the heated substance:\n    • mass\n    • specific heat capacity\n    • surface area\n    • insulation thickness\n    • thermal conductivity

@@ -1,0 +1,1 @@
+Allows Duplicants to pass when receiving a <b><style=\"logic_on\">Green Signal</style></b>.\n\nPrevents Duplicants from passing when receiving a <b><style=\"logic_off\">Red Signal</style></b>.

@@ -1,0 +1,1 @@
+{Description}\n\n<b>{Errand}</b> is a Personal Needs errand and so will be performed before all Regular errands\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    • Personal Needs: {ClassPriority}\n    • All {BestGroup} Errands: {TypePriority}

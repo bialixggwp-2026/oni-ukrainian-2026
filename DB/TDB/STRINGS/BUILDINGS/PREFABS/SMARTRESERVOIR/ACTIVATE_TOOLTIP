@@ -1,0 +1,1 @@
+Sends a <b><style=\"logic_on\">Green Signal</style></b> when reservoir is less than <b>{0}%</b> full, until it is <b>{1}% (High Threshold)</b> full

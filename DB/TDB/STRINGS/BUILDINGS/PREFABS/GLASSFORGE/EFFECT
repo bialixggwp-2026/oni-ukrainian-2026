@@ -1,0 +1,1 @@
+Produces <link=\"MOLTENGLASS\">Molten Glass</link> from raw <link=\"SAND\">Sand</link>.\n\nOutputs <link=\"HEAT\">High Temperature</link> <link=\"ELEMENTSLIQUID\">Liquid</link>.\n\nDuplicants will not fabricate items unless recipes are queued.

@@ -1,0 +1,1 @@
+This gate outputs a Green Signal if exactly one of its Inputs is receiving a Green Signal.

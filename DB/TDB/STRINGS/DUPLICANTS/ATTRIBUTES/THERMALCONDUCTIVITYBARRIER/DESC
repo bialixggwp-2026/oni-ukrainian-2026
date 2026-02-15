@@ -1,0 +1,1 @@
+Determines how quickly a Duplicant retains or loses body <style=\"KKeyword\">Heat</style> in any given area.\n\nIt is the sum of a Duplicant's <style=\"KKeyword\">Equipment</style> and their natural <style=\"KKeyword\">Insulation</style> values.

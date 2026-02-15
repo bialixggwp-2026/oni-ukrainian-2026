@@ -1,0 +1,1 @@
+Stores <link=\"POWER\">Power</link> from generators, then provides that power to buildings.\n\nSends a <b><style=\"logic_on\">Green Signal</style></b> or <b><style=\"logic_off\">Red Signal</style></b> based on the configuration of the Logic Activation Parameters.\n\nVery slightly loses charge over time.

@@ -1,0 +1,1 @@
+Allows <link=\"ELEMENTSSOLID\">Solid Materials</link> to be moved into rocket storage via <link=\"SOLIDCONDUIT\">Conveyor Rails</link>.\n\nSends solid material to the first Rocket Module with available space.\n\nMust be built within the interior of a Rocket Module.

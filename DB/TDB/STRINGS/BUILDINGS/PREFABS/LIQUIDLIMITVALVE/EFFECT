@@ -1,0 +1,1 @@
+Connects to an <link=\"LOGIC\">Automation</link> grid to automatically turn <link=\"ELEMENTSLIQUID\">Liquid</link> flow off when the specified amount has passed through it.
